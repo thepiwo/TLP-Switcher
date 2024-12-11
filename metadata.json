@@ -2,8 +2,9 @@
 	"extension-id": "ID-TLPSwitcher", 
 	"name": "TLP Switcher", 
 	"shell-version": [
-		"46"
-	], 
+		"46",
+		"47"
+	],
 	"description": "Switch TLP configurations", 
 	"uuid": "TLP_Switcher@2dsmartapps.gmail.com",
 	"version": 2
