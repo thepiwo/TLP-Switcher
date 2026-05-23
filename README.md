@@ -14,6 +14,13 @@ or
 
 Using a browser that supports extension installation, visit https://extensions.gnome.org/extension/1212/tlp-switcher/
 
+## Install locally
+
+`zip -r archive.zip .`
+`gnome-extensions install archive.zip --force`
+
+login & logout
+
 ## How To
 
 1. Place TLP configuration files in `~/.tlp/`.

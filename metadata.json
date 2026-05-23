@@ -3,7 +3,10 @@
 	"name": "TLP Switcher", 
 	"shell-version": [
 		"46",
-		"47"
+		"47",
+		"48",
+		"49",
+		"50"
 	],
 	"description": "Switch TLP configurations", 
 	"uuid": "TLP_Switcher@2dsmartapps.gmail.com",
